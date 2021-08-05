@@ -16,6 +16,9 @@ MIT
 @angular/router
 MIT
 
+@line/liff
+SEE THE LICENSE SECTION IN README.md
+
 bootstrap
 MIT
 The MIT License (MIT)
